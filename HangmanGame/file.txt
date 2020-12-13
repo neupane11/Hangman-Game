@@ -1,0 +1,9 @@
+cow
+sheep
+elephant
+tiger
+snake
+monkey
+dog
+rhino
+horse
